@@ -1,0 +1,51 @@
+[
+  {
+    "id": "/service/clock",
+    "title": "デジタル時計",
+    "heading": "年月日時分秒を表示するデジタル時計。",
+    "type": "service",
+    "date": "2026-05-01T10:00:00+09:00"
+  },
+  {
+    "id": "https://blog.atserver186.jp/",
+    "title": "ブログ",
+    "heading": "管理者が書いたブログ。",
+    "type": "service",
+    "date": "2026-05-01T10:00:00+09:00"
+  },
+  {
+    "id": "https://legacy.atserver186.jp/public/atserver186.jp/service/Notepad/",
+    "title": "メモ帳",
+    "heading": "フォント,フォントサイズ変更などに対応したwebメモ帳。",
+    "type": "service",
+    "date": "2026-05-01T10:00:00+09:00"
+  },
+  {
+    "id": "https://count.atserver186.jp/",
+    "title": "MoeCounter",
+    "heading": "様々なテーマがあるアクセスカウンター。",
+    "type": "service",
+    "date": "2026-05-01T10:00:00+09:00"
+  },
+  {
+    "id": "https://github.com/comina-dev/link.comina.git",
+    "title": "【開発中】Comina Link (旧ATSLink)",
+    "heading": "複数個のリンクや画像を共有できるサービス。",
+    "type": "service",
+    "date": "2026-05-01T10:00:00+09:00"
+  },
+  {
+    "id": "https://github.com/t-aoki186/atscord-bot.git",
+    "title": "【開発中】ATScord bot",
+    "heading": "Misskeyの招待コード生成やNGワード自動削除に対応したDiscord bot。",
+    "type": "service",
+    "date": "2026-05-01T10:00:00+09:00"
+  },
+  {
+    "id": "https://github.com/t-aoki186/dev.atserver186.jp.git",
+    "title": "【開発中】dev.atserver186.jp",
+    "heading": "開発中のサービスやAPI等について。",
+    "type": "service",
+    "date": "2026-05-01T10:00:00+09:00"
+  }
+]
