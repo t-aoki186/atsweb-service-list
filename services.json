@@ -16,7 +16,7 @@
   {
     "id": "https://legacy.atserver186.jp/public/atserver186.jp/service/Notepad/",
     "title": "メモ帳",
-    "heading": "フォント,フォントサイズ変更などに対応したwebメモ帳。",
+    "heading": "フォント,フォントサイズ変更などに対応したWebメモ帳。",
     "type": "service",
     "date": "2026-05-01T10:00:00+09:00"
   },
@@ -24,6 +24,13 @@
     "id": "https://count.atserver186.jp/",
     "title": "MoeCounter",
     "heading": "様々なテーマがあるアクセスカウンター。",
+    "type": "service",
+    "date": "2026-05-01T10:00:00+09:00"
+  },
+  {
+    "id": "https://pic.atserver186.jp/public/",
+    "title": "ATSERVER assets",
+    "heading": "画像/動画などの素材を配信しています。",
     "type": "service",
     "date": "2026-05-01T10:00:00+09:00"
   },
